@@ -1,1 +1,45 @@
-# estudo
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        O que é voleibol?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        O vôlei é um esporte em que duas equipes de seis jogadores cada uma tentam passar a bola por cima da rede para que ela toque o chão do lado adversário, sem que a equipe contrária consiga devolver. O objetivo é marcar pontos e vencer o jogo, que pode ser disputado em sets. É um esporte divertido, que exige coordenação, trabalho em equipe e agilidade!
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                    quais são as regras do voleibol?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        Cada equipe tem seis jogadores em quadra.
+O objetivo é passar a bola por cima da rede para o lado adversário, tentando fazer com que ela toque o chão lá.
+Cada equipe tem até três toques para devolver a bola ao lado oposto, sem que ela toque o chão.
+A bola não pode tocar na rede ao passar de um lado para o outro, a não ser que seja um toque válido.
+Um ponto é marcado quando a bola toca o chão do lado adversário ou quando a equipe adversária comete alguma falta.
+O jogo é dividido em sets, e quem vencer a maioria deles ganha a partida.
+Os jogadores podem usar as mãos, braços, ou qualquer parte do corpo para tocar na bola, mas não podem segurá-la ou carregá-la.
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Alura, sem fins lucrativos</p>
+    </footer>
+</body>
+</html>
