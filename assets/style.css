@@ -9,7 +9,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(238, 177, 223);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -20,9 +20,9 @@ body {
     /* background-color: aquamarine; */
     height: 100%;
 }
-
+a
 .cartao__conteudo h3 {
-    background-color: rgb(71, 120, 255);
+    background-color: rgb(255, 0, 221);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
